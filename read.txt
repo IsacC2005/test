@@ -1,1 +1,3 @@
 esta es la version original del server GITHUB.
+
+Ahora estoy agregando mas informacion pero de forma local xd
